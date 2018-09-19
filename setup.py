@@ -8,4 +8,9 @@ setup(name='cpxrhyotherm',
       author_email='kara.brugman@gmail.com',
       license='GPL-3.0',
       packages=['cpxrhyotherm'],
+      classifiers=[
+            "Programming Language :: Python :: 3",
+            "License :: OSI Approved :: GPL-3 License",
+            "Operating System :: OS Independent",
+      ],
       zip_safe=False)
