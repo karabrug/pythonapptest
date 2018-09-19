@@ -8,4 +8,7 @@ setup(name='cpxrhyotherm',
       author_email='kara.brugman@gmail.com',
       license='GPL-3.0',
       packages=['cpxrhyotherm'],
+      install_requires=[
+          'pandas',
+      ],
       zip_safe=False)
