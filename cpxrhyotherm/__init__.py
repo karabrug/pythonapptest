@@ -1,1 +1,2 @@
-from .karatest import karatest
+def karatest():
+    return (u'I work!')
