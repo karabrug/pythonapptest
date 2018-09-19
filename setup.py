@@ -6,6 +6,6 @@ setup(name='cpxrhyotherm',
       url='http://github.com/karabrug/cpxrhyotherm',
       author='Karalee K. Brugman',
       author_email='kara.brugman@gmail.com',
-      license='GNU GPL v.3',
+      license='GPL-3.0',
       packages=['cpxrhyotherm'],
       zip_safe=False)
